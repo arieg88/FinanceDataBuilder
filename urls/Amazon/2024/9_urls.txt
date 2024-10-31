@@ -1,0 +1,1 @@
+['https://finance.yahoo.com/news/amazon-com-inc-nasdaq-amzn-221506450.html', 'https://finance.yahoo.com/news/why-amazon-com-inc-amzn-021336673.html', 'https://finance.yahoo.com/news/amazon-com-inc-amzn-why-070658323.html', 'https://finance.yahoo.com/news/amazon-com-inc-amzn-best-005458505.html', 'https://finance.yahoo.com/news/amazon-employees-blast-andy-jassy-113949840.html']

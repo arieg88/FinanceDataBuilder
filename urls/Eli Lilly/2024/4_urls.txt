@@ -1,0 +1,1 @@
+['https://finance.yahoo.com/news/eli-lilly-beats-profit-estimates-105014180.html', 'https://finance.yahoo.com/news/decoding-eli-lilly-co-lly-050141774.html', 'https://finance.yahoo.com/news/eli-lilly-co-lly-surpasses-123214054.html', 'https://finance.yahoo.com/news/eli-lilly-lly-q1-earnings-154500205.html', 'https://finance.yahoo.com/news/etfs-buy-eli-lilly-beats-150000534.html']

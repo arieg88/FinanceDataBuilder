@@ -1,0 +1,1 @@
+['https://finance.yahoo.com/news/eli-lilly-investing-1-8b-151335242.html', 'https://finance.yahoo.com/news/eli-lilly-lly-stock-declines-214521006.html', 'https://finance.yahoo.com/news/eli-lilly-stock-21-6-190000080.html', 'https://finance.yahoo.com/news/eli-lilly-company-lly-gets-085005395.html', 'https://finance.yahoo.com/news/prediction-eli-lilly-stock-next-135300066.html']
