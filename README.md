@@ -12,26 +12,7 @@ Welcome to the **News Scraper and Dataset Builder** repository! This project is 
 - 💬 **Sentiment & Emotion Analysis**: Perform sentiment analysis (using FinBERT and Vader) and emotion analysis on the scraped articles.
 - 📊 **Interactive Dashboards**: Visualize the data with interactive plots and insights using Dash.
 
-## 🛠️ Prerequisites
-
-Before you start, ensure you have the following installed:
-
-- Python 3.x
-- pip (Python package installer)
-
-## 🚀 Installation
-
-To get started, clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/yourusername/news-scraper.git
-cd news-scraper
-pip install -r requirements.txt
-```
-
 ### 📦 Required Libraries
-
-Make sure you have the following libraries installed:
 
 - `requests` 📡
 - `selenium` 🌐
@@ -42,8 +23,6 @@ Make sure you have the following libraries installed:
 - `finbert` 🤖
 - `nltk` 🧠
 - `vaderSentiment` 💭
-
-## 📝 Usage
 
 ### 1. 📰 **Yahoo Article Scraper**
 
