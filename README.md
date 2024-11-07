@@ -17,9 +17,8 @@ Welcome to the **News Scraper and Dataset Builder** repository! This project is 
 - `requests` 📡
 - `selenium` 🌐
 - `beautifulsoup4` 🍲
+- pandas 🐼
 - `yfinance` 📉
-- `dash` 📊
-- `pandas` 📑
 - `finbert` 🤖
 - `nltk` 🧠
 - `vaderSentiment` 💭
